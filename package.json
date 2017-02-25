@@ -1,0 +1,22 @@
+{
+  "name": "homeworkbot",
+  "version": "1.0.0",
+  "description": "a discord bot for homeworks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZaninAndrea/HomeworkBot.git"
+  },
+  "author": "Andrea Zanin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZaninAndrea/HomeworkBot/issues"
+  },
+  "homepage": "https://github.com/ZaninAndrea/HomeworkBot#readme",
+  "dependencies": {
+    "discord.io": "^2.4.2"
+  }
+}
